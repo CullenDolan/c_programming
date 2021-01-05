@@ -7,7 +7,7 @@ main(){
 
 	printf("Type a letter: ");
 	while ((c = getchar())!= EOF){
-		printf("%d\n", EOF);
+		// printf("%d\n", EOF);
 		putchar(c);
 	}
 }
